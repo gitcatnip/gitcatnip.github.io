@@ -2,7 +2,7 @@
 
 Gitcatnip likes four-wheelin' and sleepin'. Building free websites on [github.com](https://github.com/) is kinda cool too!
 
-
+![GitHub Logo](/images/logo.png)
 
 ### 
 
