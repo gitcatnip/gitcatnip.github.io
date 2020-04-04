@@ -1,6 +1,6 @@
 ## Welcome to Gitcatnip's Homepage
 
-Gitcatnip likes four-wheelin' and sleepin'. Building free websites on github.com is kinda cool too!
+Gitcatnip likes four-wheelin' and sleepin'. Building free websites on [github.com](https://github.com/) is kinda cool too!
 
 
 
